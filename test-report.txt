@@ -1,0 +1,29 @@
+Vreme izvrsavanja:67237
+Broj testova:10
+Uspesno testova:9
+Broj palih testova:1
+Broj preskocenih:0
+Broj dinamicki preskocenih:0
+
+ANANAS E-COMMERCE d.o.o.:
+Lokacija:
+Vladimira Popovica 8, sprat 7, Beograd
+
+Matični broj:
+21625434
+
+Izvestaj uspesnosti testova:
+
+RegisterUserTest:
+Opis testa: Test pokazuje da li su podaci prilikom prijave validni.
+LoginUserTest:
+Opis testa: Test za proveru forme za prijavu.
+UserDataTest:
+Opis testa: Test za proveru podataka na korisnickom nalogu.
+AddToCartTest:
+Opis testa: Test za dodavanje proizvoda u korpu.
+Ime testa: PerformanceTest
+Opis testa: Test za merenje performansi otvaranja stranica.
+Ime testa: AdditionalTest
+Opis testa: Dodatni testovi za proveru osnovnih prikaze i search funkcije.
+Svi testovi su uspesno zavrseni.
